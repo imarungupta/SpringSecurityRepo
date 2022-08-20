@@ -18,6 +18,10 @@
         <module>spring-security-client</module>
         <module>Oauth-authorization-server</module>
         <module>Oauth-Resource-Server</module>
+        <module>StudentEnrollmentSystem</module>
+        <module>EmployeeEnrollmentBeSystem</module>
+        <module>user-validation-example</module>
         <module>StudentServiceSecurityClient</module>
+
     </modules>
 </project>
