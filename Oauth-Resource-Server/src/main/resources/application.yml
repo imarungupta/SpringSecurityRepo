@@ -1,0 +1,11 @@
+server:
+  port: 8090
+
+# Step-1
+
+spring:
+  security:
+    oauth2:
+      resource-server:
+        jwt:
+          issuer-uri: http://DESKTOP-B1DPRDQ:9090
